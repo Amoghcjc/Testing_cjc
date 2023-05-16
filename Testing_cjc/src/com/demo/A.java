@@ -11,5 +11,9 @@ public class A
 	{
 	System.out.println("hello cjc");
 	}
+public void m2()
+	{
+	System.out.println("hello cjc");
+	}
 
 }
